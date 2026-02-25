@@ -6,4 +6,4 @@
 - 🤓 Software Engineering
 - ⚙ Actually working in a web management software and mobile projects
 - ☕ Take a coffee and go ahead
-- <a href="https://danielpachecoferreira.vercel.app" target="_blank">Access portfolio</a>
+- [Access portfolio](https://danielpachecoferreira.vercel.app)
